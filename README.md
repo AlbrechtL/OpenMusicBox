@@ -5,7 +5,7 @@ It is basically designed for children but can be also used as DIY Bluetooth spea
 
 ![Box Overview](/Overview.jpg)
 
-Planned feaures
+Planned features
 ---
 * Raspberry Pi Zero W
 * Battery driven (18650 battery)
